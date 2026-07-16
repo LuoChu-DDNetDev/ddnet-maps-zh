@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Down Bass|матвей & веселуhа
 3|Bloom|paproninja & Ililja_
 4|Monochrome|shini❡ami & матвей
 3|Cansada|qxdFox & PRO_Gaming1921
 4|Not Novice|wee & Ybivawka~
 4|Romantic|Wartoz & ɳ0vą
 3|dote|spiritdote
-4|Bouncy Kingdom|Welf
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -102,6 +102,7 @@
 3|Bootcamp #2|.me'
 5|Borace|тυx
 3|Bornrif|Guliker
+4|Bouncy Kingdom|Welf
 3|Brony|Ama
 4|Brown|Stervella
 4|Bubbles|Megaman
