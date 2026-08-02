@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Rude Buster|EpicGamerYoubug & Paxtell
 3|TheRottingHalls|Pipou, VéNa, tatak & Nehr
 1|TinselTee|Ybivawka~, wee & Wonderful
 3|Bamboozled|StorмPʜöɴix
 5|SKYBOW|Exotix
 3|Apotheosis|Doshik
 4|Naufrage 4|SickCunt & panik
-5|Planet 9|Silex
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -323,6 +323,7 @@
 2|Patterns|Destoros
 3|Pink Destiny|TyxpekCZ
 1|Pink Sky|Silex
+5|Planet 9|Silex
 1|Plaza|SBL
 3|Polarity|Ravie
 2|Punica|fokkonaut & Kayumi
