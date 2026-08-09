@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|synopsis|Doshik
 2|climbup|EntityMC & 在这里等你
 1|Rejected|wee
 2|Flower|Rw
 4|Snowy Structure|Markus777777 & Retsot
 1|Redline Nade|Cammodude
 1|Fly into the sky|Yoor1kk_ger)
-3|Withered Rose|louis
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -433,6 +433,7 @@
 3|Where am I 2|Deeper
 2|Whitemoon|Cellegen
 2|willow|louis
+3|Withered Rose|louis
 2|Wormhole|hi_leute_gll
 2|WSMS|Element Finland
 2|Zap|Ravie
