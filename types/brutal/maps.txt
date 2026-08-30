@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+4|Mitosis|Doshik
 4|Rude Buster|EpicGamerYoubug & Paxtell
 3|TheRottingHalls|Pipou, VéNa, tatak & Nehr
 1|TinselTee|Ybivawka~, wee & Wonderful
 3|Bamboozled|StorмPʜöɴix
 5|SKYBOW|Exotix
 3|Apotheosis|Doshik
-4|Naufrage 4|SickCunt & panik
 
 ─── SELECTED MAPS ───
 1|A World Beyond|Hindu
@@ -301,6 +301,7 @@
 3|Mystical Island|StorмPʜöɴix
 3|Nagi|Cøke & Arrow
 3|Narcissistic|fikmesån & imp
+4|Naufrage 4|SickCunt & panik
 3|nemesis|Lewuh
 3|New World|Zerodin
 2|Next LvL|Cøke & Tridemy
