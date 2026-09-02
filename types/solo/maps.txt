@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+3|Grief|shini❡ami & матвей
 2|Patica|paproninja
 4|synopsis|Doshik
 2|climbup|EntityMC & 在这里等你
 1|Rejected|wee
 2|Flower|Rw
 4|Snowy Structure|Markus777777 & Retsot
-1|Redline Nade|Cammodude
 
 ─── SELECTED MAPS ───
 2|After the Cataclysm|Soignar
@@ -315,6 +315,7 @@
 1|Raid|Im 'corneum
 3|Rapid|Pulsar
 1|Redline Katana|Cammodude
+1|Redline Nade|Cammodude
 4|reflects|Ninjed & Pipou
 1|Replay|Im 'corneum
 2|Rocket Jump|<BµmM>
