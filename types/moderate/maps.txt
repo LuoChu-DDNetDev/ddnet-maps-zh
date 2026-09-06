@@ -1,12 +1,12 @@
 
 ─── NEW MAPS ───
+1|Cloudberry Fields|Welf
 4|Down Bass|матвей & веселуhа
 3|Bloom|paproninja & Ililja_
 4|Monochrome|shini❡ami & матвей
 3|Cansada|qxdFox & PRO_Gaming1921
 4|Not Novice|wee & Ybivawka~
 4|Romantic|Wartoz & ɳ0vą
-3|dote|spiritdote
 
 ─── SELECTED MAPS ───
 4|Afternoon|Hindu
@@ -143,6 +143,7 @@
 4|Desoxyribonukleinsäure|Im 'corneum
 4|Distance|FightFire
 3|Doable|Skeptar
+3|dote|spiritdote
 4|Dubush|тυx
 3|Dummy 2|Nigel
 5|Dusty Road|Kintaro*
